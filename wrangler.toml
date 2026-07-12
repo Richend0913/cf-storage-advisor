@@ -8,3 +8,7 @@ binding = "AI"
 [[kv_namespaces]]
 binding = "QUOTA"
 id = "a6af58cf40d74a7f84d6e9c1c48f7908"
+
+[[kv_namespaces]]
+binding = "ANALYTICS"
+id = "9c2c0ac044e2465a8e5c23a23f91a1b6"
