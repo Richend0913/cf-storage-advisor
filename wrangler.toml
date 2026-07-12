@@ -1,0 +1,10 @@
+name = "cf-storage-advisor"
+main = "worker.js"
+compatibility_date = "2026-06-01"
+
+[ai]
+binding = "AI"
+
+[[kv_namespaces]]
+binding = "QUOTA"
+id = "a6af58cf40d74a7f84d6e9c1c48f7908"
